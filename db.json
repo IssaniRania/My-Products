@@ -22,11 +22,11 @@
           "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/752efdf6-b2b7-47fc-b137-5a70b5dd9423/air-force-1-07-shoe-tnM0q0.png",
         },
         {
-          id: 4,
-          description: "Nike Air Mx 270",
-          price: 13995,
-          couleur: "4 couleurs",
-          img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-shoes-WrLlWX.png",
+          "id": 4,
+          "description": "Nike Air Mx 270",
+          "price": 13995,
+          "couleur": "4 couleurs",
+          "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-shoes-WrLlWX.png",
         },
         {
           "id": 5,
@@ -43,11 +43,11 @@
           "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/504a7e0a-405b-4c25-87d0-0fd009e314f0/air-jordan-1-mid-shoes-BpARGV.png",
         },
         {
-          id: 7,
-          description: "Air Jordan 1 Reto HIgj OG",
-          price: 14717,
-          couleur: "1 couleur",
-          img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/47112d0a-dc23-4b74-876c-b638fecf0af2/air-jordan-1-retro-high-og-shoes-a7Zzxm.png",
+          "id": 7,
+          "description": "Air Jordan 1 Reto HIgj OG",
+          "price": 14717,
+          "couleur": "1 couleur",
+          "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/47112d0a-dc23-4b74-876c-b638fecf0af2/air-jordan-1-retro-high-og-shoes-a7Zzxm.png",
         },
         {
           "id": 8,
