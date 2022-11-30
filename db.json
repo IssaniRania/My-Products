@@ -1,5 +1,4 @@
-{
-      "products":[
+  "products":[
         {
           "id": 1,
           "description": "Nike Air force 107 LV8",
@@ -8,4 +7,3 @@
           "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6b8a02da-5d9f-497a-9144-28244850c226/air-force-1-07-lv8-shoes-HZj8RK.png",
         },
       ]
- }
